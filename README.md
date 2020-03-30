@@ -1,10 +1,10 @@
 # Skoltech-ML-2020-AutoEncoder-by-Forest
-Typically, autoencoders (AEs) are assotiated with Neural Networks. Yet in [the paper](https://arxiv.org/pdf/1709.09018.pdf) the authors propose to use Decision Tree for AE and claim that their approach has reasonable performance. Here we have reproduced the paper results: we have implemented AE forest algorithm and compared its performance with MLP &amp; CNN  AEs on image datasets (MNIST, CIFAR-10).
+Typically, autoencoders (AEs) are assotiated with Neural Networks. Yet in [the paper](https://arxiv.org/pdf/1709.09018.pdf) the authors propose to use Decision Tree for AE and claim that their approach has reasonable performance. Here we have reproduced the paper results: we have implemented AE forest algorithm and compared its performance with MLP &amp; CNN  AEs on image datasets (MNIST, CIFAR-10, Omniglot).
 
 The code was written by:
 
 - Egor Sevriugov - Tree ensemble based AE (MNIST, CIFAR-10, Omniglot), 
-- Kirill Scherbakov - CNN based AE (MNIST, CIFAR-10, Omniglot), 
+- Kirill Shcherbakov - CNN based AE (MNIST, CIFAR-10, Omniglot), 
 - Maria Begicheva - MLP based AE (MNIST, Omniglot),
 - Olga Novitskaya - MLP based AE (CIFAR-10, Omniglot)
 
@@ -21,8 +21,13 @@ The code was written by:
 - Google Colaboratory service
 
 ## Datasets info
-- MNIST and CIFAR-10 datasets were got from keras.datasets module
-- Omniglot dataset was got from torchvision.datasets module. However, Egor has the different order of pictires in this dataset, and we saved our unified set of pictures for his experiments.
+- MNIST and CIFAR-10 datasets were got from keras.datasets module:  [MNIST dataset](https://keras.io/datasets/#mnist-database-of-handwritten-digits) | [CIFAR-10 dataset](https://keras.io/datasets/#cifar10-small-image-classification)
+- Omniglot dataset was got from torchvision.datasets module: [Omniglot dataset](https://github.com/pytorch/vision/blob/master/torchvision/datasets/omniglot.py)
 
 ## Results
 
+
+## Related Projects
+
+- The official implementation for the paper "AutoEncoder by Forest" by Ji Feng and Zhi-Hua Zhou 2017:  [Paper](https://arxiv.org/pdf/1709.09018.pdf) | [Code](https://github.com/kingfengji/eForest)
+- Non-official implementation of the paper "AutoEncoder by Forest" by Ji Feng and Zhi-Hua Zhou 2017 by Antoine Passemiers:  [Paper](https://arxiv.org/pdf/1709.09018.pdf) | [Code](https://github.com/AntoinePassemiers/Encoder-Forest)
