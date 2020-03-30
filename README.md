@@ -5,6 +5,9 @@ The code was written by Egor Sevriugov, Kirill Scherbakov, Maria Begicheva and O
 
 ## Colab Notebook
 Tree ensemble based AE (MNIST, CIFAR-10, Omniglot): [Google Colab] () | [Code] ()
+
 CNN based AE (MNIST, CIFAR-10, Omniglot): [Google Colab] () | [Code] ()
+
 MLP based AE (MNIST, Omniglot): [Google Colab] () | [Code] ()
+
 MLP based AE (CIFAR-10, Omniglot): [Google Colab] () | [Code] ()
