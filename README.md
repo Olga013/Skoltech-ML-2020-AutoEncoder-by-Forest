@@ -17,3 +17,10 @@ The code was written by:
 ## Prerequisites
 - Python 3
 - Google Colaboratory service
+
+## Datasets info
+- MNIST and CIFAR-10 datasets were got from keras.datasets module
+- Omniglot dataset was got from torchvision.datasets module. However, Egor has the different order of pictires in this dataset, and we saved our unified set of pictures for his experiments.
+
+## Results
+
