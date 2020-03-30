@@ -9,8 +9,8 @@ The code was written by:
 - Olga Novitskaya - MLP based AE (CIFAR-10, Omniglot)
 
 ## Colab Notebook
-- Tree ensemble based AE (MNIST, CIFAR-10, Omniglot): [Google Colab] () | [Code] ()
-- CNN based AE (MNIST, CIFAR-10, Omniglot): [Google Colab] () | [Code] ()
+- Tree ensemble based AE (MNIST, CIFAR-10, Omniglot): [Google Colab] () | [Code] (https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/tree/master/eForest_models)
+- CNN based AE (MNIST, CIFAR-10, Omniglot): [Google Colab] () | [Code] (https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/tree/master/CNN_models)
 - MLP based AE (MNIST, Omniglot): [Google Colab] () | [Code] ()
 - MLP based AE (CIFAR-10, Omniglot): [Google Colab] () | [Code] ()
 
