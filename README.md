@@ -14,7 +14,7 @@ The code was written by:
 - Tree ensemble based AE (MNIST, CIFAR-10, Omniglot): [Google Colab]() | [Code](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/tree/master/eForest_models)
 - CNN based AE (MNIST, CIFAR-10, Omniglot): [Google Colab]() | [Code](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/tree/master/CNN_models)
 - MLP based AE (MNIST, Omniglot): [Google Colab]() | [Code]()
-- MLP based AE (CIFAR-10, Omniglot): [Google Colab](https://colab.research.google.com/drive/1ICO3AFseQ-dgHrFeijF7ZxAEA4sZ9OJl) | [Code]()
+- MLP based AE (CIFAR-10, Omniglot): [Google Colab](https://colab.research.google.com/drive/1ICO3AFseQ-dgHrFeijF7ZxAEA4sZ9OJl) | [Code](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/MLP_models/MLP_CIFAR_10.ipynb)
 
 ## Prerequisites
 - Python 3
