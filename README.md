@@ -11,9 +11,13 @@ The code was written by:
 **AEbyForest: [Project](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest) | [Paper](https://arxiv.org/pdf/1709.09018.pdf) | [Report](https://www.overleaf.com/project/5e7cb16864f7d40001746376) | [Presentation](https://www.overleaf.com/project/5e8205f195665c0001cc66b7) | [Video]()**
 
 ![Train MNIST/Test MNIST](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/Merged_MNIST.png)
+
 ![Train CIFAR10/Test CIFAR10](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/Merged_CIFAR10.png)
+
 ![Train CIFAR10/Test MNIST](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/model%20reuse%20images/CIFARtoMNIST.png)
+
 ![Train CIFAR10/Test Omniglot](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/model%20reuse%20images/CIFARtoOmniglot.png)
+
 ![Train MNIST/Test Omniglot](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/model%20reuse%20images/MNISTtoOmniglot.png)
 
 ## Colab Notebook
