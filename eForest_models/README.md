@@ -3,7 +3,7 @@
 ## How to launch the code?
 
 -Firstly you should launch all cells in section "Model"
--Now you can launch any other part independently(any other part do not require others except section "Model"), BUT there are some additional requirements for some of sections described in \textbf{Warning}
+-Now you can launch any other part independently(any other part do not require others except section "Model"), BUT there are some additional requirements for some of sections described in **Warning
 
 ## Warning!!!
 
