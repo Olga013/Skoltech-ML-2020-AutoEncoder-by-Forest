@@ -8,7 +8,7 @@
 
 ## Additional requirements
 
-- To launch sections **Train on MNIST predict on Omniglot** and **Train on CIFAR-10 predict on Omniglot** you should download pictures from folder **Skoltech-ML-2020-AutoEncoder-by-Forest/test_omniglot/pictures.zip** then unpack the archive and place ALL pictures in directory with code.
+- To launch sections **Train on MNIST predict on Omniglot** and **Train on CIFAR-10 predict on Omniglot** you should download pictures from folder [Skoltech-ML-2020-AutoEncoder-by-Forest/test_omniglot/pictures.zip](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/test_omniglot/pictures.zip) then unpack the archive and place ALL pictures in directory with code.
 
 - To launch section **Train on CIFAR-10 predict on Omniglot** firstly you should launch not only section **Model**, but section **Train on MNIST predict on Omniglot** too.
 
