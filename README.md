@@ -41,7 +41,7 @@ To help users better understand and use our code, for each model we created inst
 
 - CNN-AE instruction for running the code and reproducing the results: [CNN-AE Instruction](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/CNN_models/README.md)
 
-- MLP-AE instruction for running the code and reproducing the results: [MLP-AE Instruction]()
+- MLP-AE instruction for running the code and reproducing the results: [MLP-AE Instruction](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/MLP_models/README.md)
 
 
 ## Related Projects
