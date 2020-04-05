@@ -14,4 +14,4 @@
 
 - Firstly, you should open the corresponding notebook in [Google Colaboratory service](https://colab.research.google.com/)
 
-- In each notebook the code is arranged in a sequential way. In order to reproduce the corresponding results, you need to open a notebook in Google colab (preferably using GPU runtime) and run each cell of the code sequentially, then wait for the result to run.
+- In each notebook the code is arranged in a sequential way. In order to reproduce the corresponding results, you need to open a notebook in Google colab and run each cell of the code sequentially, then wait for the result to run.
