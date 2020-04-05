@@ -14,11 +14,6 @@ The code was written by:
 
 ![Train CIFAR10/Test CIFAR10](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/Merged_CIFAR10.png)
 
-![Train CIFAR10/Test MNIST](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/model%20reuse%20images/CIFARtoMNIST.png)
-
-![Train CIFAR10/Test Omniglot](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/model%20reuse%20images/CIFARtoOmniglot.png)
-
-![Train MNIST/Test Omniglot](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/model%20reuse%20images/MNISTtoOmniglot.png)
 
 ## Colab Notebook
 - Tree ensemble based AE (MNIST, CIFAR-10, Omniglot): [Google Colab](https://colab.research.google.com/github/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/eForest_models/eForest_ml%20.ipynb) | [Code](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/tree/master/eForest_models)
