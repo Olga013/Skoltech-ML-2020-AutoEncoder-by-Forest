@@ -10,7 +10,7 @@ The code was written by:
 - Maria Begicheva - MLP based AE (MNIST, Omniglot),
 - Olga Novitskaya - MLP based AE (CIFAR-10, Omniglot)
 
-**AEbyForest: [Project](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest) | [Paper](https://arxiv.org/pdf/1709.09018.pdf) | [Report](https://www.overleaf.com/project/5e7cb16864f7d40001746376) | [Presentation](https://www.overleaf.com/project/5e8205f195665c0001cc66b7) | [Video]()**
+**AEbyForest: [Project](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest) | [Paper](https://arxiv.org/pdf/1709.09018.pdf) | [Report](https://www.overleaf.com/project/5e7cb16864f7d40001746376) | [Presentation](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/presentation/Presentation_AutoEncoder_by_Forest.pdf) | [Video](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/video/zoom_0.mp4)**
 
 Train MNIST/Test MNIST
 ![](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/Merged_MNIST.png)
