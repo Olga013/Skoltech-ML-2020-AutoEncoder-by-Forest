@@ -10,11 +10,6 @@ The code was written by:
 
 **AEbyForest: [Project](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest) | [Paper](https://arxiv.org/pdf/1709.09018.pdf) | [Report](https://www.overleaf.com/project/5e7cb16864f7d40001746376) | [Presentation](https://www.overleaf.com/project/5e8205f195665c0001cc66b7) | [Video]()**
 
-![Train MNIST/Test MNIST](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/Merged_MNIST.png)
-
-![Train CIFAR10/Test CIFAR10](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/Merged_CIFAR10.png)
-
-
 ## Colab Notebook
 - Tree ensemble based AE (MNIST, CIFAR-10, Omniglot): [Google Colab](https://colab.research.google.com/github/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/eForest_models/eForest_ml%20.ipynb) | [Code](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/tree/master/eForest_models)
 - CNN based AE (MNIST, CIFAR-10, Omniglot): [Google Colab](https://colab.research.google.com/github/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/CNN_models/CNNs_models.ipynb) | [Code](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/tree/master/CNN_models)
@@ -30,7 +25,9 @@ The code was written by:
 - Omniglot dataset was got from torchvision.datasets module: [Omniglot dataset](https://github.com/pytorch/vision/blob/master/torchvision/datasets/omniglot.py)
 
 ## Results
+![Train MNIST/Test MNIST](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/Merged_MNIST.png)
 
+![Train CIFAR10/Test CIFAR10](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/Merged_CIFAR10.png)
 
 ## Related Projects
 
