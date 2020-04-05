@@ -34,7 +34,14 @@ Train CIFAR10/Test CIFAR10
 - MNIST and CIFAR-10 datasets were got from keras.datasets module:  [MNIST dataset](https://keras.io/datasets/#mnist-database-of-handwritten-digits) | [CIFAR-10 dataset](https://keras.io/datasets/#cifar10-small-image-classification)
 - Omniglot dataset was got from torchvision.datasets module: [Omniglot dataset](https://github.com/pytorch/vision/blob/master/torchvision/datasets/omniglot.py)
 
-## Results
+## How to launch the code?
+To help users better understand and use our code, for each model we created instructions for running the code and reproducing the results:
+
+- eForest instruction for running the code and reproducing the results: [eForest Instruction](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/eForest_models/README.md)
+
+- CNN-AE instruction for running the code and reproducing the results: [CNN-AE Instruction](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/CNN_models/README.md)
+
+- MLP-AE instruction for running the code and reproducing the results: [MLP-AE Instruction]()
 
 
 ## Related Projects
